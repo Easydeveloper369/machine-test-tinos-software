@@ -4,6 +4,22 @@ ShopEase is a Flutter-based product shopping application developed as part of a 
 
 The application includes product browsing, search, category filtering, product details, cart management, login validation, SQLite-based login session storage, and REST API integration.
 
+## Flutter Version
+
+Flutter 3.47.1
+
+## Dart Version
+
+Dart 3.13.1
+
+
+## Packages Used
+
+- provider
+- dio
+- sqflite
+- path
+
 ## Features
 
 - Login screen with email and password validation
